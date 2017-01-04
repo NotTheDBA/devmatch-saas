@@ -72,6 +72,16 @@ h3 {
 } 
 */
 
+.navbar-default .navbar-toggle {
+    border: 2px, solid white;
+    &:hover, &:focus {
+            background-color:  #283E51;
+    }
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #FFF;
+}
+
 //  Home Page Styles
 .home-callout {
     margin-top: -20px;
