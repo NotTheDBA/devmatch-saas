@@ -1,6 +1,6 @@
 class ContactMailer < ActionMailer::Base
     default to: 'notthedba@outlook.com'
-    def contact_email(name, mail, body)
+    def contact_email(name, email, body)
         @name = name
         @email = email
         @body = body
