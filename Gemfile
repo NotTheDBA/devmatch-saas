@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '5.0.0'
 
@@ -16,6 +15,9 @@ gem 'coffee-script-source', '1.12.2'
 gem 'coffee-rails', '4.2.1'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
+
+# Use devise gem to manage user authentication.
+gem 'devise', '4.2.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails', '4.1.1'
