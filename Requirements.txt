@@ -6,7 +6,7 @@ Memberships
 
 Stripe integration
 * Users table should have a stripe customer token field.
-* Pro form should be prevented from submitting until a card token is received from Stripe.
+* Pro form should be prevented from submitting until after a card token is received from Stripe.
 * Card token must be submitted when user information is submitted to be validated.
 * User email, card token, and plan ID must then be submitted to Stripe to charge.
 * Rais should save customer token and user information to the database.
