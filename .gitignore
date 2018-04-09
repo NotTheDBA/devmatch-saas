@@ -22,7 +22,6 @@ pickle-email-*.html
 rerun.txt
 
 
-
 # TODO Comment out this rule if you are OK with secrets being uploaded to the repo
 config/initializers/secret_token.rb
 
@@ -58,6 +57,8 @@ bower.json
 # Ignore Byebug command history file.
 .byebug_history
 
+ # Ignore application configuration
+ /config/application.yml
 
 ## Specific to RubyMotion:
 .dat*
@@ -80,3 +81,7 @@ build-iPhoneSimulator/
 /_yardoc/
 /doc/
 /rdoc/
+
+ # Ignore the default SQLite database.
+ /db/*.sqlite3
+ /db/*.sqlite3-journal
