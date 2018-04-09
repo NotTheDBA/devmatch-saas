@@ -1,0 +1,11 @@
+# Add configuration values here, as shown below.
+#
+# pusher_app_id: "appid_here"
+# pusher_key: pub_key_here
+# pusher_secret: pub_secret_here
+  stripe_api_key: stripe_test_api_key_here
+  stripe_publishable_key: stripe_test_pub_key_here
+#
+# production:
+  stripe_api_key: stripe_prod_api_key_here
+  stripe_publishable_key: stripe_prod_api_key_here
