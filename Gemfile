@@ -34,7 +34,7 @@ gem 'jbuilder', '2.5.0'
 # gem 'capistrano-rails', group: :development
 
 # Use Twitter Boostrap for dynamic layout and styling
-gem 'bootstrap-sass', '3.3.7'
+gem 'bootstrap-sass', '3.4.1'
 
 # Use FontAwesome for adding icons.
 gem 'font-awesome-sass', '4.6.2'
