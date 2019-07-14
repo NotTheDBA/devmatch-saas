@@ -17,7 +17,7 @@ gem 'coffee-rails', '4.2.1'
 # gem 'therubyracer', platforms: :ruby
 
 # Use devise gem to manage user authentication.
-gem 'devise', '4.2.0'
+gem 'devise', '4.6.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails', '4.1.1'
