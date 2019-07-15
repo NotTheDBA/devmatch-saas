@@ -57,7 +57,7 @@ end
 
 group :production do
   #Use the PostGRES sql in production.
-  gem 'pg','0.18.4'
+  gem 'pg','1.1.4'
 end
 
 group :development do
