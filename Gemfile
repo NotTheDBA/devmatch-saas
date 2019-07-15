@@ -37,7 +37,7 @@ gem 'jbuilder', '2.5.0'
 gem 'bootstrap-sass', '3.4.1'
 
 # Use FontAwesome for adding icons.
-gem 'font-awesome-sass', '4.6.2'
+gem 'font-awesome-sass', '5.9.0'
 
 # Use Hirb gem for better console data presentation
 gem 'hirb', '0.7.3'
