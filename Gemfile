@@ -8,7 +8,7 @@ gem 'puma', '3.4.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '5.0.7'
 # Use Uglifier as compressor for JavaScript assets
-gem 'uglifier', '3.0.0'
+gem 'uglifier', '4.1.20'
 #adding coffeescript for heroku
 gem 'coffee-script-source', '1.12.2'
 # Use CoffeeScript for .coffee assets and views

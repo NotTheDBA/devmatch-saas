@@ -179,7 +179,7 @@ GEM
     turbolinks-source (5.2.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    uglifier (3.0.0)
+    uglifier (4.1.20)
       execjs (>= 0.3.0, < 3)
     warden (1.2.8)
       rack (>= 2.0.6)
@@ -217,7 +217,7 @@ DEPENDENCIES
   stripe (= 4.21.3)
   turbolinks (= 5.2.0)
   tzinfo-data
-  uglifier (= 3.0.0)
+  uglifier (= 4.1.20)
   web-console
 
 RUBY VERSION
