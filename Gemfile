@@ -12,7 +12,7 @@ gem 'uglifier', '4.1.20'
 #adding coffeescript for heroku
 gem 'coffee-script-source', '1.12.2'
 # Use CoffeeScript for .coffee assets and views
-gem 'coffee-rails', '4.2.1'
+gem 'coffee-rails', '4.2.2'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
