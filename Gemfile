@@ -43,7 +43,7 @@ gem 'font-awesome-sass', '5.9.0'
 gem 'hirb', '0.7.3'
 
 # Use Stripe for payment processing
-gem 'stripe', '4.22.0'
+gem 'stripe', '4.23.0'
 
 # Use Figaro for ENV variables
 gem 'figaro', '1.1.1'
