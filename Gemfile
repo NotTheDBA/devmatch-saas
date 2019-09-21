@@ -37,13 +37,13 @@ gem 'jbuilder', '2.9.1'
 gem 'bootstrap-sass', '3.4.1'
 
 # Use FontAwesome for adding icons.
-gem 'font-awesome-sass', '5.9.0'
+gem 'font-awesome-sass', '5.10.2'
 
 # Use Hirb gem for better console data presentation
 gem 'hirb', '0.7.3'
 
 # Use Stripe for payment processing
-gem 'stripe', '5.1.1'
+gem 'stripe', '5.2.0'
 
 # Use Figaro for ENV variables
 gem 'figaro', '1.1.1'
