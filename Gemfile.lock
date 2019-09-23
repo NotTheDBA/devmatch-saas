@@ -106,7 +106,7 @@ GEM
       mini_portile2 (~> 2.4.0)
     orm_adapter (0.5.0)
     pg (1.1.4)
-    puma (4.1.1)
+    puma (4.2.0)
       nio4r (~> 2.0)
     rack (2.0.7)
     rack-test (1.1.0)
@@ -204,14 +204,14 @@ DEPENDENCIES
   jquery-rails (= 4.3.5)
   listen (= 3.1.5)
   pg (= 1.1.4)
-  puma (= 4.1.1)
+  puma (= 4.2.0)
   rails (= 5.2.3)
   sass-rails (= 6.0.0)
   spring
   spring-watcher-listen (= 2.0.1)
   sqlite3
   stripe (= 5.2.0)
-  turbolinks (= 5.2.0)
+  turbolinks (= 5.2.1)
   tzinfo-data
   uglifier (= 4.1.20)
   web-console
